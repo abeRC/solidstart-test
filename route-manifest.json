@@ -1,0 +1,63 @@
+{
+  "/*404": [
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/_...404_-427c7150.js"
+    },
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/entry-client-27888db7.js"
+    },
+    {
+      "type": "style",
+      "href": "/solidstart-test/assets/entry-client-2514c4de.css"
+    }
+  ],
+  "/about": [
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/about-c020dddd.js"
+    },
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/entry-client-27888db7.js"
+    },
+    {
+      "type": "style",
+      "href": "/solidstart-test/assets/entry-client-2514c4de.css"
+    },
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/Counter-59d9633e.js"
+    }
+  ],
+  "/": [
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/index-3692ebfc.js"
+    },
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/entry-client-27888db7.js"
+    },
+    {
+      "type": "style",
+      "href": "/solidstart-test/assets/entry-client-2514c4de.css"
+    },
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/Counter-59d9633e.js"
+    }
+  ],
+  "entry-client": [
+    {
+      "type": "script",
+      "href": "/solidstart-test/assets/entry-client-27888db7.js"
+    },
+    {
+      "type": "style",
+      "href": "/solidstart-test/assets/entry-client-2514c4de.css"
+    }
+  ],
+  "index.html": []
+}

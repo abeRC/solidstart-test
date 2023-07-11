@@ -1,0 +1,51 @@
+{
+  "_Counter-59d9633e.js": {
+    "file": "assets/Counter-59d9633e.js",
+    "imports": [
+      "src/entry-client.jsx"
+    ]
+  },
+  "src/entry-client.css": {
+    "file": "assets/entry-client-2514c4de.css",
+    "src": "src/entry-client.css"
+  },
+  "src/entry-client.jsx": {
+    "css": [
+      "assets/entry-client-2514c4de.css"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].jsx",
+      "src/routes/about.jsx",
+      "src/routes/index.jsx"
+    ],
+    "file": "assets/entry-client-27888db7.js",
+    "isEntry": true,
+    "src": "src/entry-client.jsx"
+  },
+  "src/routes/[...404].jsx": {
+    "file": "assets/_...404_-427c7150.js",
+    "imports": [
+      "src/entry-client.jsx"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/[...404].jsx"
+  },
+  "src/routes/about.jsx": {
+    "file": "assets/about-c020dddd.js",
+    "imports": [
+      "src/entry-client.jsx",
+      "_Counter-59d9633e.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/about.jsx"
+  },
+  "src/routes/index.jsx": {
+    "file": "assets/index-3692ebfc.js",
+    "imports": [
+      "src/entry-client.jsx",
+      "_Counter-59d9633e.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.jsx"
+  }
+}
